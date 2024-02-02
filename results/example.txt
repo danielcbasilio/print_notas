@@ -1,0 +1,60 @@
+
+-----------------------------------------------------------------------
+Resultados: Notas Example
+-----------------------------------------------------------------------
+Número de alunos: 446
+Alunos sem aprovação: 164
+Positivas: 63.45%
+Média: 12.35 /20
+-----------------------------------------------------------------------
+Grade: | 20 | 19 | 18 | 17 | 16 | 15 | 14 | 13 | 12 | 11 | 10 |
+Count: | 0  | 6  | 5  | 6  | 19 | 38 | 32 | 43 | 44 | 42 | 52 |
+-----------------------------------------------------------------------
+Top 10%
+
+1   |  Lee James                                               | 19.32
+2   |  Marjorie Parsons Rahaman Leona Catalan Lyons            | 19.20
+3   |  Jae Hill                                                | 18.98
+4   |  Erma Wakefield Robertson Watkins Litzenberger           | 18.86
+5   |  Merri Bowman Cotman Rayo Bonner                         | 18.68
+6   |  Eric Western                                            | 18.51
+7   |  Jose Polk Spires Sherry Hunt                            | 18.14
+8   |  Tommy Downing Butterfield Wheaton Lopez                 | 17.78
+9   |  Stewart Martinek Reep Stoner                            | 17.69
+10  |  Eugene Johnson Bennett                                  | 17.62
+11  |  Jessica Hunter Humphrey Traynor Gerber                  | 17.46
+12  |  Sylvia Oneil Orr Murdoch Martinez                       | 17.31
+13  |  Ada Pendleton North Diaz Jolissaint                     | 17.20
+14  |  Dorothy Slatton                                         | 17.16
+15  |  Frank Patrick Davis Harry                               | 17.03
+16  |  Brenda Rivera                                           | 16.52
+17  |  Robert Smith                                            | 16.41
+18  |  Loise Siddall                                           | 16.40
+19  |  Ruth Brockett Lyon Kuechler Woodham                     | 16.36
+20  |  Christopher Gardner Hernandez Schrader                  | 16.13
+21  |  Melissa Attridge Torres Blevins                         | 16.09
+-   |  Jose Murray Tate                                        | 16.09
+23  |  Paul Michalak Grap Loomis                               | 16.05
+24  |  Scott Adams Dunsford Thomas                             | 15.98
+25  |  Jerry Hamm Hooser Singleton Young Shutt                 | 15.96
+-   |  Paul Jefferis                                           | 15.96
+27  |  Ned Stratman Ownbey Christensen                         | 15.91
+28  |  Dianna Schwartz Fornili                                 | 15.81
+29  |  Nancy Duponte Kranz Pasco Olivera Nicols                | 15.77
+30  |  Dennis Serano Watson                                    | 15.57
+31  |  Cathy Otoole Banks                                      | 15.55
+32  |  Samantha Jones Middleton Stephens Urbina Young          | 15.47
+33  |  Stephanie Ortiz Mcmillan Carter Boyd                    | 15.45
+34  |  Glynda Davis                                            | 15.44
+35  |  Ruth Davis Friend Dodson                                | 15.43
+-   |  Andrew Garcia Kitchens Scholl Guillen                   | 15.43
+37  |  Megan Holtz Stone Gibson Walker                         | 15.39
+38  |  Raquel Gin Waldman                                      | 15.36
+39  |  Joe Spann Barnes                                        | 15.31
+40  |  Brenda Ali Barnes Nguyen                                | 15.27
+41  |  Mary Boudreau Peterson Otero Garland Wright             | 15.24
+42  |  Amy Wildey Sanders Sims                                 | 15.16
+43  |  William Nguyen                                          | 15.12
+-   |  Marcella Gorman Carpenter                               | 15.12
+-----------------------------------------------------------------------
+

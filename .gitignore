@@ -1,0 +1,13 @@
+__pycache__
+
+formatted_data/*
+!formatted_data/example.tsv
+
+raw_data/*
+!raw_data/notas_example.tsv
+
+results/*
+!results/example.txt
+
+scrapers/*
+!scrapers/scraper_example.ipynb
